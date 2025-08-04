@@ -1,0 +1,16 @@
+name: sympa
+id: ari:cloud:compass:5bd9f796-f8f1-4d74-a67a-a7c23a131003:component/88ccf998-0822-4778-ba69-49f68b56f7b6/ff87e92d-ab62-4963-86eb-4dcfad170e5e
+description: Sympa, Mailing List Management Software
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Gigako-com/sympa
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
